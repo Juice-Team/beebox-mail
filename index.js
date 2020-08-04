@@ -59,4 +59,4 @@ if (cmd == ".send") {
 
 });
 
-client.login("NjgyOTUxMzc4MjMwMTgxOTI4.XlkeGQ.b9xu1kpZXTMDHtny7d4QsXqfhWg");
+client.login("");
